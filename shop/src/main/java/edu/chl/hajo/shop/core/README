@@ -1,0 +1,12 @@
+*** README for the shop model ***
+
+This is an basic OO model of a (generic web) shop
+
+Application specific  parts in core-package reusable parts
+in utils-package.
+
+No defensive programming here, handled later.
+
+Sorting i later done by database, some basic here
+to ease development.
+
